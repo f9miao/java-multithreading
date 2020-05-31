@@ -1,0 +1,12 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### 不忽略源码 ###
+!**/src/main/**
+!**/src/test/**
+
+### 忽略输出目录 ###
+/target/
